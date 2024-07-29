@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      database: Cluster0
+      uri: mongodb+srv://saiannam:rMBkdT0SlOzHytlJ@cluster0.w6jwbm1.mongodb.net/
